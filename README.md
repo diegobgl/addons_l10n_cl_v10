@@ -1,0 +1,1 @@
+addons_l10n_cl_v10
